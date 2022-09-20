@@ -1,7 +1,7 @@
 # ControleDeVendas
 
-Universidade de Brasilia.
-Materia: Orientação a Objetos.
-Alunas: Beatriz Vieira Nascimento e Isabelle da Costa.
+ <br>Universidade de Brasilia. <br>
+ <br>Materia: Orientação a Objetos. <br>
+ <br>Alunas: Beatriz Vieira Nascimento e Isabelle da Costa. <br>
 
-Objetivo: Colocar em pratica os conceitos de Orietação a Objetos aprendidos em sala de aula.
+ <br>Objetivo: Colocar em pratica os conceitos de Orietação a Objetos aprendidos em sala de aula. <br>
